@@ -1,4 +1,4 @@
-PROJ_NAME = arm_cal
+PROJ_NAME = Funcalc
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 SRC = src/addition.c\
